@@ -24,12 +24,7 @@ Data Modeling: Established relationships between sales, products, stores, and ge
 Power Query: Cleaned and transformed data for accurate reporting.
 
 📈 Dashboard Preview
-<img width="1449" height="814" alt="Screenshot 2026-04-28 132321" src="https://github.com/user-attachments/assets/0c64779e-0885-4c1a-a611-7bb34256055f" />
-<img width="1454" height="814" alt="Screenshot 2026-04-28 132255" src="https://github.com/user-attachments/assets/fa81f50e-72ea-49ae-ade4-4bb1c1091385" />
-<img width="1461" height="817" alt="Screenshot 2026-04-28 132305" src="https://github.com/user-attachments/assets/37106050-f79c-42f4-a2fc-528834b1a931" />
-
-
-Power bi file : 
-
-
+<img width="700" height=auto alt="Screenshot 2026-04-28 132321" src="https://github.com/user-attachments/assets/0c64779e-0885-4c1a-a611-7bb34256055f" />
+<img width="700" height=auto alt="Screenshot 2026-04-28 132255" src="https://github.com/user-attachments/assets/fa81f50e-72ea-49ae-ade4-4bb1c1091385" />
+<img width="700" height=auto alt="Screenshot 2026-04-28 132305" src="https://github.com/user-attachments/assets/37106050-f79c-42f4-a2fc-528834b1a931" />
 
